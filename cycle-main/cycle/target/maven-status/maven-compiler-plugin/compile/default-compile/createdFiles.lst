@@ -1,0 +1,4 @@
+com/prodapt/learningspring/cycle/controller/CycleController.class
+com/prodapt/learningspring/cycle/repository/CycleRepository.class
+com/prodapt/learningspring/cycle/entity/Cycle.class
+com/prodapt/learningspring/cycle/LearningSpringApplication.class
